@@ -1,0 +1,79 @@
+I"8	<h3>   </h3>
+
+<div id="categories">
+
+  <div class="category-box">
+    
+    <div id="#guides"></div>
+    <h4 class="category-head"><a href="/blog/categories/guides">guides</a></h4>
+    <a name="guides"></a>
+     
+    <article class="center">
+      <h6><a href="/devlopr-jekyll-master/guides/2019/05/22/using-siteleaf.html">Using Siteleaf CMS with devlopr-jekyll Blog</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/guides/2019/05/22/using-siteleaf.html">Using Siteleaf CMS with devlopr-jekyll Blog</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/devlopr-jekyll-master/guides/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages.html">How to deploy devlopr-jekyll Blog using Github Pages and Travis</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/guides/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages.html">How to deploy devlopr-jekyll Blog using Github Pages and Travis</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/devlopr-jekyll-master/guides/2019/05/20/build-a-blog-using-devlopr-jekyll.html">Build and Deploy a blog using devlopr-jekyll and Github Pages</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/guides/2019/05/20/build-a-blog-using-devlopr-jekyll.html">Build and Deploy a blog using devlopr-jekyll and Github Pages</a></h6>
+    </article>
+
+
+    
+    
+  </div>
+
+  <div class="category-box">
+    
+    <div id="#devlopr-jekyll-master"></div>
+    <h4 class="category-head"><a href="/blog/categories/devlopr-jekyll-master">devlopr-jekyll-master</a></h4>
+    <a name="devlopr-jekyll-master"></a>
+     
+    <article class="center">
+      <h6><a href="/devlopr-jekyll-master/guides/2019/05/22/using-siteleaf.html">Using Siteleaf CMS with devlopr-jekyll Blog</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/devlopr-jekyll-master/guides/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages.html">How to deploy devlopr-jekyll Blog using Github Pages and Travis</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/devlopr-jekyll-master/guides/2019/05/20/build-a-blog-using-devlopr-jekyll.html">Build and Deploy a blog using devlopr-jekyll and Github Pages</a></h6>
+    </article>
+
+
+    
+    
+  </div>
+
+</div>
+
+:ET
